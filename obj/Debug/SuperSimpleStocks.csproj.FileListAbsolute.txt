@@ -1,0 +1,8 @@
+C:\Development\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe.config
+C:\Development\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe
+C:\Development\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.pdb
+C:\Development\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.exe
+C:\Development\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.pdb
+C:\Development\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe.config
+C:\Development\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.exe
+C:\Development\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.pdb
